@@ -41,8 +41,10 @@ Ohkkkk ! It's a thing.
 ### Who is the most successful actor in bollywood?
 ![image](https://github.com/Nehaasah/Bollywood-Movie-World-Analysis-and-Suggestions/assets/102512172/9a88d00f-e713-486a-9bb0-375b911cec33)
 
-The Notebook Has better visual experience , check it out .
-
 
 ### Highest rated bollywood movies since 1950 till 2019?
 ![image](https://github.com/Nehaasah/Bollywood-Movie-World-Analysis-and-Suggestions/assets/102512172/c13aa872-7b6b-4035-a1b8-6642dfba4611)
+
+## The Notebook Has better visual experience , check it out .With the power of Exploratory Data Analysis (EDA) and The interactive visualizations crafted with Altair engage it enables us to explore movie genres, ratings, actor, award, and more in an intuitive and informative manner.
+
+Let's embark on this cinematic journey together, unlocking the magic of Bollywood movies, and enhancing our understanding and appreciation of this diverse and vibrant film industry.
